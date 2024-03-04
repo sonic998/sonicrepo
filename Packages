@@ -1,8 +1,8 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.serena.AppIndex
+Version: 1.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Sonic
+Depends: firmware (>13.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
