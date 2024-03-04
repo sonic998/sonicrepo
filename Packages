@@ -2,7 +2,6 @@ Package: com.serena.AppIndex
 Version: 1.0
 Section: Applications
 Maintainer: Sonic
-Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Filename: ./debs/appindex.deb
 Size: 778
