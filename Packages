@@ -5,8 +5,8 @@ Maintainer: Sonic
 Depends: firmware (>13.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/appindex.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Size: 778
+MD5sum: e70da66132c076b86a818c80a896877a
 Description: App to view all installs apps
 Name: AppIndex
 Author: Sonic
