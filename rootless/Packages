@@ -10,3 +10,16 @@ MD5sum: e70da66132c076b86a818c80a896877a
 Description: App to view all installs apps
 Name: AppIndex
 Author: Sonic
+
+Package: com.sonic.prime
+Version: 1.0
+Section: Terminal
+Maintainer: Sonic
+Architecture: iphoneos-arm64
+Filename: ./debs/SonicCmd.deb
+Size: 778
+Installed-Size: 1677
+MD5sum: e70da66132c076b86a818c80a896877a
+Description: command line tool
+Name: sonic
+Author: Sonic
